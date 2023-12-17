@@ -10,4 +10,6 @@ In this you'll learn how to:
 2. Build a Sign Language model using a Action Detection powered by LSTM layers
 3. Predict sign language in real time using video sequences
 
+<img width="918" alt="Screenshot 2023-12-17 184717" src="https://github.com/kanishkasah20/Sign-language-detector-using-action-recognition-/assets/114860158/853ff07f-1b8c-4c67-a732-556abdbb2e25">
+
 4. Happy coding!
